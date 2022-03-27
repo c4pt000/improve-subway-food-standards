@@ -1,4 +1,7 @@
 # improve-subway-food-standards
+
+# to stay fresh longer for less used toppings and all toppings being served daily
+
 refrigerated basin for sandwich toppings with transparent panel doors per compartment sealing in the refrigeration for each topping
 that an employee (or robotic device) can lift for the customers order
 on the clear transparent panel each topping can have a vivid color photo sticker of each topping a bright color photo of purple onions or bright green lettuce or bright green peppers
